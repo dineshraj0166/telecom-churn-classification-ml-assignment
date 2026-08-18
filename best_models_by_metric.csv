@@ -1,0 +1,7 @@
+Metric,Best Model,Best Score
+Accuracy,Random Forest,0.955556
+AUC,Random Forest,0.987464
+Precision,Random Forest,0.89011
+Recall,Gaussian Naive Bayes,0.89899
+F1,Random Forest,0.852632
+MCC,Random Forest,0.827535
