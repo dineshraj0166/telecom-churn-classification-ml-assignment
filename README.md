@@ -54,7 +54,7 @@ The dataset was collected from an Iranian telecommunication company's customer d
 
 ## C. GitHub Repository Link
 
-**GitHub Repository:**
+**GitHub Repository:**https://github.com/dineshraj0166/telecom-churn-classification-ml-assignment
 
 ## D. Live Streamlit Application
 
