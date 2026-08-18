@@ -58,7 +58,7 @@ The dataset was collected from an Iranian telecommunication company's customer d
 
 ## D. Live Streamlit Application
 
-**Streamlit Application:** 
+**Streamlit Application:** https://telecom-churn-ml-assignment.streamlit.app/
 
 ## E. Data Preparation
 
